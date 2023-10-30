@@ -1,4 +1,4 @@
-## **My CLI Tools**
+## My CLI Tools
 
 ## Internet Explorer:
 ### lynx
@@ -22,7 +22,7 @@
     echo '[ -f "${HOME}/.gdrive-downloader/gdl" ] && [ -x "${HOME}/.gdrive-downloader/gdl" ] && PATH="${HOME}/.gdrive-downloader:${PATH}"' >> ~/.bashrc
 
 ## Others
-- wget
+- wget	
 - cmus
 - awk
 - grep
