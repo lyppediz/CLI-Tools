@@ -4,7 +4,7 @@
 ### lynx
 	sudo apt install lynx
 
-## Manager Explorer:
+## :open_file_folder: Manager Explorer:
 ### ranger
 	sudo apt install ranger
 
